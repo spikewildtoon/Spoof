@@ -1,0 +1,18 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: .
+// Assembly: TheToonTownSpoofer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=599186c172bd0364
+// MVID: B039A871-4CC9-4341-8B41-AC2E69DB4046
+// Assembly location: C:\Program Files (x86)\The Spoof Net\The ToonTown Spoofer V6\TheToonTownSpoofer.exe
+
+using \u0006;
+using System.Runtime.InteropServices;
+
+namespace \u0006
+{
+  [Guid("F2BF2C8F-405F-11D3-BB39-00A0C93CA73A")]
+  [CoClass(typeof (\u001A))]
+  [ComImport]
+  public interface \u001F : \u001B, \u007F
+  {
+  }
+}
